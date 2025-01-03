@@ -4,6 +4,10 @@ This repository contains all the files of course contents that I have worked wit
 
 ## Reository contents:
 - Machine-Learning-course/
+    - Introduction to Numpy/
+        - numpy.ipynb
+        - panda.png
+        - dog-photo.png
     - Introduction to Pandas/
         - car-sales.csv\n
         - car-sales-missing-data.csv
@@ -12,3 +16,4 @@ This repository contains all the files of course contents that I have worked wit
         - introduction to pandas.ipynb
         - pandas-exercises.ipynb
     - README.md
+
