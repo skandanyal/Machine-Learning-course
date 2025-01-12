@@ -2,6 +2,11 @@
 
 This repository contains all the files of course contents that I have worked with. I'm following through ZTM's Complete A.I. & Machine Learning, Data Science Bootcamp ([link](https://www.udemy.com/share/102vBw3@0f3_VwH80mIMIa1DigF9LXL_djdtvm1dtQVFiez22qUTsPQRAZGX7SnMY37m5YqF8A==/).)
 
+Use Google's Colaboratory to view this repo, using the badge:
+<a target="_blank" href="https://colab.research.google.com/github/skandanyal/Machine-Learning-course">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Reository contents:
 - Machine-Learning-course
     - Introduction to Matplotlib
