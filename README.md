@@ -4,6 +4,11 @@ This repository contains all the files of course contents that I have worked wit
 
 ## Reository contents:
 - Machine-Learning-course
+    - Introduction to Matplotlib
+        - car-sales.csv
+        - heart-disease.csv
+        - heart_disease.ipynb
+        - plotting.ipynb
     - Introduction to Numpy
         - numpy.ipynb
         - panda.png
