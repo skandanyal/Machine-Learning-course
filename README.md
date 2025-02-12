@@ -25,5 +25,19 @@ Use Google's Colaboratory to view this repo, using the badge:
         - exported_car_sales_csv.csv
         - introduction to pandas.ipynb
         - pandas-exercises.ipynb
+    - Introduction to ScikitLearn
+        - Notebooks
+            - scikit-learn
+            - scikit-learn-2
+            - scikit-learn-3
+        - Pickles
+            - Random_forest_model_1.pkl
+            - Random_forest_model_1a.pkl
+            - Random_forest_model_1b.pkl
+        - scikit_learn_data
+            - car-sales-extended
+            - car-sales-extened-missing-data
+            - car-sales-missing-data
+            -heart-disease
     - README.md
 
