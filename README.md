@@ -28,8 +28,8 @@ Use Google's Colaboratory to view this repo, using the badge:
     - Introduction to ScikitLearn
         - Notebooks
             - scikit-learn
-            - scikit-learn-2
-            - scikit-learn-3
+            - scikit-learn-2 ((updated on: 16 feb)
+            - scikit_learn-3 (updated on: 16 feb)
         - Pickles
             - Random_forest_model_1.pkl
             - Random_forest_model_1a.pkl
