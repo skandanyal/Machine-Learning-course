@@ -30,6 +30,8 @@ Use Google's Colaboratory to view this repo, using the badge:
             - scikit-learn
             - scikit-learn-2
             - scikit-learn-3
+            - scikit-learn-4
+            - scikit-learn-5
         - Pickles
             - Random_forest_model_1.pkl
             - Random_forest_model_1a.pkl
