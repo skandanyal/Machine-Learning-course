@@ -32,10 +32,6 @@ Use Google's Colaboratory to view this repo, using the badge:
             - scikit_learn-3 (updated on: 23 feb)
             - scikit_learn-4 (updated on: 23 feb)
             - scikit_learn-5 
-        - Pickles
-            - Random_forest_model_1.pkl
-            - Random_forest_model_1a.pkl
-            - Random_forest_model_1b.pkl
         - scikit_learn_data
             - car-sales-extended
             - car-sales-extened-missing-data
@@ -43,3 +39,4 @@ Use Google's Colaboratory to view this repo, using the badge:
             -heart-disease
     - README.md
 
+last updated on: 05-04-2025
