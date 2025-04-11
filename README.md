@@ -37,6 +37,8 @@ Use Google's Colaboratory to view this repo, using the badge:
             - car-sales-extened-missing-data
             - car-sales-missing-data
             -heart-disease
+    - Projects
+        - California housing prediction
     - README.md
 
-last updated on: 05-04-2025
+last updated on: 11-04-2025
