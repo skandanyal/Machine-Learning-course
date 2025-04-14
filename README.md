@@ -39,6 +39,6 @@ Use Google's Colaboratory to view this repo, using the badge:
             -heart-disease
     - Projects
         - California housing prediction
+        - Heart disease prediction
     - README.md
 
-last updated on: 11-04-2025
